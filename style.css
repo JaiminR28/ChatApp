@@ -1,0 +1,77 @@
+/* ********************************** */
+/*HEADER*/
+/* ********************************** */
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 5.1rem;
+}
+
+.nav-links {
+	margin-right: 3.6rem;
+	padding-bottom: 1.2rem;
+	font-family: "Poppins", sans-serif;
+	font-size: 1.4rem;
+	font-weight: 400;
+	line-height: 2.1rem;
+	letter-spacing: -0.02em;
+	text-align: left;
+	text-decoration: none;
+	color: #2b353e;
+}
+
+.nav-links:hover {
+	border-bottom: 2px solid #2b353e;
+	transition: all 100ms;
+}
+
+.nav-button {
+	padding: 1.3rem 1.8rem 1.3rem 1.8rem;
+	color: white;
+	background-color: #1bc68f;
+	border-radius: 24px;
+}
+
+/* ********************************** */
+/*HERO SECTION*/
+/* ********************************** */
+
+.hero-section {
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 9.8rem;
+	padding-bottom: 9.8rem;
+}
+
+.Hero-heading-left {
+	margin-bottom: 10rem;
+}
+.hero--heading {
+	margin: 0;
+	font-size: 7.5rem;
+	font-weight: 600;
+	text-align: left;
+	line-height: 120%;
+	letter-spacing: -0.02rem;
+	color: #012a76;
+}
+
+.hero-para {
+	margin: 3.2rem 0 5.2rem 0;
+	width: 54.2rem;
+	height: 2.9rem;
+	font-family: "Poppins";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 2.4rem;
+	line-height: 120%;
+	/* identical to box height, or 29px */
+	letter-spacing: -0.02em;
+}
+
+.hero--img {
+	height: 52.4rem;
+}
