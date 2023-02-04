@@ -104,3 +104,14 @@ h1 {
 	justify-content: space-between;
 	align-items: center;
 }
+
+.tif-button,
+.nav-button,
+.gad-button {
+	text-decoration: none;
+}
+.tif-button:hover,
+.nav-button:hover {
+	background-color: rgba(27, 198, 144, 0.7);
+	transition: all 200ms ease-in;
+}
