@@ -24,9 +24,9 @@
 ---- 02 COLORS
 
 -Primary: #f1fbff ;
--Tints: 
--Shades: #2b353e, #708991,   
--Accents: 
+-Tints: #1bc68f
+-Shades: #2b353e, #708991, rgba(27, 198, 144, 0.2)   
+-Accents: #fff
 -Greys: 
 background-color: #1bc68f
 text colors : #012a76,
@@ -114,4 +114,21 @@ h1 {
 .nav-button:hover {
 	background-color: rgba(27, 198, 144, 0.7);
 	transition: all 200ms ease-in;
+}
+
+p {
+	width: auto;
+}
+h1 {
+	font-family: "Poppins";
+	font-style: normal;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	font-size: 45px;
+	line-height: 128%;
+	color: #2b353e;
+}
+.text-center {
+	text-align: center;
 }

@@ -99,3 +99,29 @@
 	background-color: rgba(27, 198, 144, 0.2);
 	transition: all 0.2s;
 }
+
+/* ********************************** */
+/*MIDDLE SECTION*/
+/* ********************************** */
+
+.middle-section {
+	background-color: #fff;
+	padding: 9rem 6rem 14.5rem 6rem;
+}
+
+.middle--section-paragraph {
+	margin: 1.4rem 0 2rem 0;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 65.8rem;
+	font-size: 1.8rem;
+	line-height: 4rem;
+	font-weight: 400;
+}
+
+.middle--section-image {
+	width: 100%;
+	margin-right: -18rem;
+	/* margin: auto 0 auto 0; */
+}
