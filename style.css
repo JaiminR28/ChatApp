@@ -125,3 +125,62 @@
 	margin-right: -18rem;
 	/* margin: auto 0 auto 0; */
 }
+
+/* ********************************** */
+/*CTA Section*/
+/* ********************************** */
+
+.CTA-image {
+	max-width: 85%;
+}
+
+.CTA-section {
+	background-color: #292742;
+	max-width: 100%;
+	padding: 9.2rem 0 11.7rem 0;
+}
+
+.CTA--heading {
+	max-width: 52.9rem;
+	max-height: 300rem;
+	font-size: 6.2rem;
+	line-height: 8.4rem;
+	color: #fff;
+}
+
+.CTA--description {
+	margin: 3rem 0 3rem 0;
+	max-width: 52.9rem;
+	color: #fff;
+	font-weight: 500;
+	font-size: 2rem;
+	line-height: 4.8rem;
+}
+
+.CTA-gad--button {
+	background-color: #fff;
+}
+
+.CTA-gad--button:hover {
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+.line-break {
+	width: 16.9rem;
+	height: 1px;
+	color: #708991;
+	background-color: #708991;
+	margin-top: 8.8rem;
+}
+.CTA--rating {
+	max-width: 45.8rem;
+	margin-top: 4.8rem;
+	align-items: flex-start;
+}
+.rating--text {
+	color: white;
+	font-weight: 300;
+	margin-left: 2.2rem;
+	font-size: 2rem;
+	line-height: 3.4rem;
+}

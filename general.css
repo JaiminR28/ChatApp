@@ -24,7 +24,7 @@
 ---- 02 COLORS
 
 -Primary: #f1fbff ;
--Tints: #1bc68f
+-Tints: #1bc68f, #292742
 -Shades: #2b353e, #708991, rgba(27, 198, 144, 0.2)   
 -Accents: #fff
 -Greys: 
@@ -131,4 +131,8 @@ h1 {
 }
 .text-center {
 	text-align: center;
+}
+
+.bold {
+	font-weight: 600;
 }
